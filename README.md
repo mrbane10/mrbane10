@@ -1,2 +1,5 @@
-Hey there! I am Kaisar Imtiyaz, a Deep Learning practitioner who likes to apply state of the art models to real world problems in NLP and Computer Vision. I am experienced in technologies like the Transformers, RAG, LLMs,and large-scale model fine-tuning. My projects span across AI-based applications including chat agents, language models, image segmentation etc.
-You can find my work in the repositories. You can reach me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com).
+Hi and welcome to my Github!
+
+I am Kaisar Imtiyaz, a Deep Learning practicioner and I like working on problems involving data whether big or small. Throught my journey in this field i worked on problems spanning various domains like Classical and Statistical ML, Generative AI, RAG, LLMs, Computer Vision etc. I have various projects on the same which you can find under my repository section.
+
+You can reach me via [Email](mailto:ikaisar10@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kaisar-imtiyaz/).
