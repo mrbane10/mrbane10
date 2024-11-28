@@ -1,0 +1,2 @@
+I am a Deep Learning practitioner who likes to apply state of the art models to real world problems in  and Computer Vision. I have experience with techniques like Transformers, RAG, and large-scale model fine-tuning. My projects span across AI-based applications including chat agents, language models, image segmentation etc.
+You can find my work in the repositories. You can reach me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com).
